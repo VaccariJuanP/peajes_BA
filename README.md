@@ -42,8 +42,9 @@ A partir de estas visualizaciones, se interpretaron comportamientos horarios dif
 - Gráfico de barras: pasos por ID de peaje.
 - Gráfico circular: medios de pago.
 - Gráfico de barras: registros por mes del año.
-  
-Todos estos elementos están vinculados mediante filtros cruzados, permitiendo explorar los pasos por peaje y medio de pago en una franja horaria específica, o viceversa.
+
+Todos estos elementos están vinculados mediante filtros cruzados, permitiendo explorar los pasos por peaje y medio de pago en una franja horaria especifica o mes de año, o viceversa.
+
 ---
 
 ## 📊 Hallazgos principales
@@ -83,4 +84,5 @@ Todos estos elementos están vinculados mediante filtros cruzados, permitiendo e
 ## ✍️ Autor
 
 Juan Vaccari 
+
 vaccari.juan.pablo@gmail.com
