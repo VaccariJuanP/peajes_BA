@@ -45,6 +45,23 @@ A partir de estas visualizaciones, se interpretaron comportamientos horarios dif
 
 Todos estos elementos están vinculados mediante filtros cruzados, permitiendo explorar los pasos por peaje y medio de pago en una franja horaria especifica o mes de año, o viceversa.
 
+### 4. Gráficos
+
+#### Patrones Horarios
+![Patrones horarios ](assets/patrones_horarios.png)
+
+#### Pasos por hora según peaje
+![Pasos por hora según peaje](assets/pasos_por_hora_s_peaje.png)
+
+#### Cantidad total pasos por peaje
+![Cantidad total pasos por peaje](assets/cantidad_total_pasos_por_peaje.png)
+
+#### Cantidad total pasos por hora
+![Cantidad total pasos por hora](assets/cantidad_total_pasos_por_hora.png)
+
+#### Distribución medios de pago
+![Distribución medios de pago](assets/Distribucion_medios_pago.png)
+
 ---
 
 ## 📊 Hallazgos principales
